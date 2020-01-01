@@ -100,9 +100,9 @@ public class CrudTest {
 //        String[] matchProperties = matches.toArray(new String[] {});
         CriteriaBuilder criteriaBuilder = session.getCriteriaBuilder();
         CriteriaQuery<School> criteriaQuery = criteriaBuilder.createQuery(School.class);
-        criteriaQuery.from
+//        criteriaQuery.from
 
-        System.out.println(school.getAddress());
+//        System.out.println(school.getAddress());
     }
 
 }
