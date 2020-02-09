@@ -11,6 +11,7 @@
 
     <modules>
         <module>quickstart</module>
+        <module>configuration</module>
     </modules>
 
 </project>
